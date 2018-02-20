@@ -1,0 +1,20 @@
+{
+  "name": "lumifoo",
+  "version": "1.0.0",
+  "description": "generated using Luminus version \"2.9.12.25\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "shadow-cljs": "^2.1.21"
+  },
+  "dependencies": {
+    "create-react-class": "^15.6.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
